@@ -1,5 +1,5 @@
 # veeva
-计算dayOfYear
+
 Question
 
 Given a specific date, write a function to return the day of the year for that date. The signature of the function is
